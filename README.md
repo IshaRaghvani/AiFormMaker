@@ -1,4 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![image](https://github.com/IshaRaghvani/AiFormMaker/assets/114795191/f63f0878-7301-4a27-bf42-f51b7f99e1a0)
+![image](https://github.com/IshaRaghvani/AiFormMaker/assets/114795191/d7a4e51e-3af3-46db-8d0a-c7eaf9a6c411)
+![image](https://github.com/IshaRaghvani/AiFormMaker/assets/114795191/a9003265-e56e-4692-9ec5-ec49ccda542b)
+
+
 
 ## Getting Started
 
