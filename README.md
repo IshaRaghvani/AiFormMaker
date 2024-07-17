@@ -1,4 +1,17 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+# AI Form Maker
+
+Welcome to the AI Form Maker project! This project leverages Next.js to create a dynamic form builder integrated with AI capabilities and uses Dribbble for design inspiration.
+
+## Features
+
+- **AI-Powered Form Generation:** Generate forms dynamically using AI to predict and suggest form fields based on user input.
+- **Next.js Framework:** Utilize the power and flexibility of Next.js for server-side rendering and static site generation.
+- **Dribbble Integration:** Fetch and display design inspirations from Dribbble to help users create aesthetically pleasing forms.
+- **Responsive Design:** Ensure forms are fully responsive and look great on all devices.
+- **Customizable Fields:** Allow users to customize form fields, labels, and validation rules.
+- **Export Forms:** Export created forms in various formats (JSON, HTML, etc.).
 ![image](https://github.com/IshaRaghvani/AiFormMaker/assets/114795191/f63f0878-7301-4a27-bf42-f51b7f99e1a0)
 ![image](https://github.com/IshaRaghvani/AiFormMaker/assets/114795191/d7a4e51e-3af3-46db-8d0a-c7eaf9a6c411)
 ![image](https://github.com/IshaRaghvani/AiFormMaker/assets/114795191/a9003265-e56e-4692-9ec5-ec49ccda542b)
